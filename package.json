@@ -1,6 +1,6 @@
 {
 	"name": "@rollinsb1010/reactivecore",
-	"version": "9.12.3",
+	"version": "9.12.5",
 	"description": "Core architecture of reactive UI libraries",
 	"main": "lib/index.js",
 	"files": [
