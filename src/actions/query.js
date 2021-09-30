@@ -325,7 +325,6 @@ export function executeQuery(
 			queryOptions,
 			queryListener,
 			props,
-			selectedValues,
 		} = getState();
 		const lockTime = config.initialQueriesSyncTime;
 		const initialTimestamp = config.initialTimestamp;

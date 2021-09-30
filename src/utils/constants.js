@@ -103,7 +103,7 @@ export const validProps = [
 	// Map components
 	'unit',
 	// ToggleButton
-	'group'
+	'group',
 ];
 
 export const CLEAR_ALL = {
