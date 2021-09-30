@@ -1,5 +1,5 @@
 {
-	"name": "@appbaseio/reactivecore",
+	"name": "@rollinsb1010/reactivecore",
 	"version": "9.12.2",
 	"description": "Core architecture of reactive UI libraries",
 	"main": "lib/index.js",
@@ -18,7 +18,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/appbaseio/reactivecore.git"
+		"url": "git+https://github.com/rollinsb1010/reactivecore.git"
 	},
 	"author": "Deepak Grover <deepakgrover333@gmail.com> (https://github.com/metagrover)",
 	"license": "Apache-2.0",
