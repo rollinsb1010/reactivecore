@@ -102,6 +102,8 @@ export const validProps = [
 	'parseDate',
 	// Map components
 	'unit',
+	// ToggleButton
+	'group'
 ];
 
 export const CLEAR_ALL = {
