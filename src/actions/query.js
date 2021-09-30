@@ -346,7 +346,7 @@ export function executeQuery(
 			// Clear pagination state for result components
 			// Only clear when value is not set by URL params
 			const componentProps = props[component];
-			if (selectedValues[componentId] && selectedValues[componentId].reference !== 'URL' && [
+			if (queryLog[component] && [
 				componentTypes.reactiveList,
 				componentTypes.reactiveMap,
 			].includes(componentProps.componentType)
