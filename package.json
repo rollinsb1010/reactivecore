@@ -18,7 +18,10 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/rollinsb1010/reactivecore.git"
+		"url": "https://github.com/rollinsb1010/reactivecore.git"
+	},
+	"publishConfig": {
+		"registry": "https://npm.pkg.github.com"
 	},
 	"author": "Deepak Grover <deepakgrover333@gmail.com> (https://github.com/metagrover)",
 	"license": "Apache-2.0",
